@@ -1,5 +1,3 @@
-#Carbon cdtcle modelling
-#Shahadat Hossain, 3847363
 
 rm(list=ls())
 cat("\014")
